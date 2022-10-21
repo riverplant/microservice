@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NiterreApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(NiterreApplication.class, args);
 	}
 
